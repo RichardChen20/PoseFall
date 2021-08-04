@@ -1,0 +1,10 @@
+<launch>
+
+ <!-- start getinfo node -->
+ <node pkg="fall_det" type="cam.py" name="cam"/>
+
+  <!-- start globalplan node -->
+ <node pkg="fall_det" type="detector.py" name="detector"/>
+
+
+ </launch>
