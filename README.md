@@ -8,6 +8,6 @@ Pretrained weights can be found here: https://drive.google.com/drive/folders/1s1
 
 I do not plan to update this repository detaily, you can send messages to me if you are interested in this work.
 
-Tips for "ROS_fall_detection"
+Tips for "ROS_fall_detection":
 Remember to modify the first line in "cam.py" and "detector.py": #! /home/seanchen/anaconda3/bin/python.
 Change it to your own Python3 path as our rep uses pytorch with Python3, while original ros is based on Python2.
