@@ -6,6 +6,10 @@ The first one is a video based fall detection approach https://arxiv.org/abs/210
 The other is a fall detection system on ROS based on single frame 2D pose. Here is the demo: https://www.bilibili.com/video/BV1AT4y1u7t3/ 
 Pretrained weights can be found here: https://drive.google.com/drive/folders/1s1hcetDzHP6DlVecV3Zj199TVsDVsjLI?usp=sharing
 
+2023.2 new!
+I have uploaded codes for video-based fall detection, however, I do not clean them, hope they would help.
+https://drive.google.com/drive/folders/1wQz-TSld67ZZljYgCtfUKhjscvpAMOr2?usp=sharing
+
 I do not plan to update this repository detaily, you can send messages to me if you are interested in this work.
 
 Tips for "ROS_fall_detection":
